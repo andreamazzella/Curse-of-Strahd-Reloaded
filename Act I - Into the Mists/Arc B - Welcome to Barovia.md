@@ -1,10 +1,10 @@
 *An adventure for five 3rd-level characters.*
 
-In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood on the Vine Tavern, they meet Ismark, the eldest child of the village’s recently deceased burgomaster. 
+In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood on the Vine Tavern, they meet Ismark, the eldest son of the village’s recently deceased burgomaster. 
 
-In exchange for food, shelter, information, and assistance against Strahd, Ismark asks the players to escort his sister Ireena—a target of Strahd’s interest—to St. Andral’s Church in the walled town of Vallaki to the west, where he believes she will be safe. Ismark is soon approached by "Mad Mary," a villager whose daughter, Gertruda, has recently left the village in search of her betrothed.
+In exchange for food, shelter, information, and assistance against Strahd, Ismark asks the players to escort his younger brother Iván—a target of Strahd’s interest—to St. Andral’s Church in the walled town of Vallaki to the west, where he believes he will be safe. Ismark is soon approached by "Mad Mary," a villager whose daughter, Gertruda, has recently left the village in search of her betrothed.
 
-If the players agree to help him, Ismark escorts them to the Burgomaster's Mansion. There, Ireena insists on a burial for her father before departing, which can be performed at dawn with the aid of the village’s priest, Father Donavich. As the players rest in the mansion, they receive a shared dream from the Vistani seer Madam Eva, who warns them that they are in grave danger and invites them to journey to her tent at Tser Pool Encampment to learn their fates.
+If the players agree to help him, Ismark escorts them to the Burgomaster's Mansion. There, Iván insists on a burial for his father before departing, which can be performed at dawn with the aid of the village’s priest, Father Donavich. As the players rest in the mansion, they receive a shared dream from the Vistani seer Madam Eva, who warns them that they are in grave danger and invites them to journey to her tent at Tser Pool Encampment to learn their fates.
 
 Upon delivering the Burgomaster's coffin to the church the following dawn, the players can meet Doru, Father Donavich's son, who Strahd transformed into a vampire spawn as punishment for his rebellion. The players then face a choice: Will they destroy Doru, as Father Donavich requests—or spare him?
 # B1. Old Svalich Road
@@ -147,7 +147,7 @@ As the PCs speak with Arik, Ismark approaches, offers to pay for their drinks, a
 >
 > ***Emotions.*** Ismark most often feels concerned, guilty, friendly, melancholy, defiant, hopeful, desperate, and grateful.
 >
-> ***Motivations.*** Ismark wants to keep his village and Ireena safe, keep his father's memory alive, and one day match his ancestor's legacy.
+> ***Motivations.*** Ismark wants to keep his village and Iván safe, keep his father's memory alive, and one day match his ancestor's legacy.
 >
 > ***Inspirations.*** When playing Ismark, channel Jon Snow (*Game of Thrones*), Faramir (*Lord of the Rings*), and Trevor Belmont (*Castlevania*).
 >
@@ -156,7 +156,7 @@ As the PCs speak with Arik, Ismark approaches, offers to pay for their drinks, a
 >
 > ***Morale.*** In a fight, Ismark would first seek to mediate the parties' conflict, but would gladly draw his sword—and even fight to the death—if he believed that he was fighting for something or someone worth protecting.
 >
-> ***Relationships.*** Ismark is the adoptive brother of Ireena Kolyana, and the great-grandson of Ismark the Great.
+> ***Relationships.*** Ismark is the adoptive brother of Iván Kolyanovich, and the great-grandson of Ismark the Great.
 
 ### Drinks with Ismark
 As the players drink, [[Non-Player Characters#Ismark Kolyanovich]] can share the the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">Barovian Lore (p. 26)</span>. However, Ismark doesn't mention a "mad wizard," and he doesn't suggest that the Vistani serve Strahd.
@@ -167,9 +167,9 @@ Ismark can also share the following information:
 * Outsiders are occasionally spirited into Barovia by the mists. (Ismark has no knowledge of Death House, but vaguely remembers tales of unorthodox ways by which travelers have come to the valley.) There is no escaping Barovia once an outsider has entered it.
 * The village of Barovia was recently decimated by a siege from Strahd's undead forces. While the undead were dispatched, the village suffered heavily, and many Barovians fled to Vallaki, a fortified town to the west. Many are still missing, and Ismark has had to dispatch several search parties across the nearby woods in search of survivors.
 * All Barovians call Strahd “the Devil,” fearing that speaking his name gives him power and draws his attention. (This is a myth.) Ismark is unsure whether he believes this, but warns the players that Strahd’s spies are thought to be always watching— bats, wolves, and even human servants, including some among the Vistani. 
-* St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead. Ismark hopes to bring his sister, Ireena there, but is currently unable to due to his duties as his father's successor. 
+* St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead. Ismark hopes to bring his brother, Iván there, but is currently unable to due to his duties as his father's successor. 
 
-If the players ask why Ismark hopes to bring Ireena to St. Andral's Church, he first swears them to secrecy. He then shares, in a hushed voice, that a vampire from Castle Ravenloft has haunted the grounds around their home in recent days. "I think the creature caught sight of her during the siege," he says, quietly. "I didn't want to panic the village, but I'm concerned that Barovia is no longer safe for her." (Ismark admits that the vampire is Strahd if confronted, but otherwise makes no mention of the vampire's identity.)
+If the players ask why Ismark hopes to bring Iván to St. Andral's Church, he first swears them to secrecy. He then shares, in a hushed voice, that a vampire from Castle Ravenloft has haunted the grounds around their home in recent days. "I think the creature caught sight of him during the siege," he says, quietly. "I didn't want to panic the village, but I'm concerned that Barovia is no longer safe for him." (Ismark admits that the vampire is Strahd if confronted, but otherwise makes no mention of the vampire's identity.)
 
 If the players ask about the statue outside the tavern, Ismark can share the following information:
  
@@ -178,13 +178,13 @@ If the players ask about the statue outside the tavern, Ismark can share the fol
 
 Ismark doesn't believe that the players will be able to find either answers or protection in the village of Barovia, but suggests that they might find both in the town of Vallaki to the west. In the meantime, he is glad to offer the players room and board at his own home. (The Blood on the Vine Tavern doesn't have rooms for rent.) 
 
-If the players indicate an interest in traveling to Vallaki, he asks if they would allow Ireena to accompany them, escorting her to St. Andral's Church in Vallaki.
+If the players indicate an interest in traveling to Vallaki, he asks if they would allow Iván to accompany them, escorting him to St. Andral's Church in Vallaki.
 
 > [!warning]+ **Clarifying Expectations**
 > 
 > *Curse of Strahd: Reloaded* is a campaign about heroes. It's also a campaign about making allies, and the bonds and strength that grow from those alliances.
 > 
-> As such, while Ireena is not an essential NPC to the campaign, a party that declines Ismark's request likely has mismatched expectations with the type of campaign you plan to run. If the players refuse to escort Ireena to Vallaki, pause the game and check in with them to clarify and confirm expectations. If the players are still reluctant to bring Ireena with them, ask questions and discuss the issue further before resuming the game.
+> As such, while Iván is not an essential NPC to the campaign, a party that declines Ismark's request likely has mismatched expectations with the type of campaign you plan to run. If the players refuse to escort Iván to Vallaki, pause the game and check in with them to clarify and confirm expectations. If the players are still reluctant to bring Iván with them, ask questions and discuss the issue further before resuming the game.
 ### Bildrath's Fury
 Shortly after Ismark begins answering the players' questions, read:
 
@@ -238,84 +238,84 @@ Once calmed, Mary wipes her eyes, thanks Ismark (and the players, if they comfor
 ## B5c. The Burgomaster’s Mansion
 <span class="citation"><em>This scene takes place in Chapter 3: Area E4.</em></span>
 
-This area is largely as described in <span class="citation">Burgomaster’s Mansion (p. 44)</span>. However, Kolyan’s corpse still bears the wounds that killed him: a deep gash on his forehead, and multiple lacerations across his chest. Additionally, Ireena wears a thick red scarf to cover the marks of Strahd’s teeth on her neck. (It was knitted for her by her late mother, Korina, who died of illness fourteen years ago.)
+This area is largely as described in <span class="citation">Burgomaster’s Mansion (p. 44)</span>. However, Kolyan’s corpse still bears the wounds that killed him: a deep gash on his forehead, and multiple lacerations across his chest. Additionally, Iván wears a thick red scarf to cover the marks of Strahd’s teeth on his neck. (It was knitted for him by his late mother, Korina, who died of illness fourteen years ago.)
 
-When the players arrive, Ismark directs them to knock on the door to "let Ireena know they're here." If they do, the following events then occur:
+When the players arrive, Ismark directs them to knock on the door to "let Iván know they're here." If they do, the following events then occur:
 
 * The players hear the sound of footsteps approaching from the far side of the door. 
-* A small peephole on the door opens, allowing a woman's eye to peer through.
+* A small peephole on the door opens, allowing a man's eye to peer through.
 * The peephole closes, and the players can hear someone unlocking a trio of locks.
-* The door opens, revealing Ireena Kolyana on the opposite side. "Guests, Ismark?" she asks, raising an eyebrow.
+* The door opens, revealing Iván Kolyanovich on the opposite side. "Guests, Ismark?" he asks, raising an eyebrow.
 
 > [!lore] **The Peephole**
-> Like most homes in Barovia, Ireena and Ismark's front door is fitted with a peephole that allows them to identify visitors before opening the door. Barovian peepholes, however, are built internally like periscopes, with a pair of hidden tiny mirrors that bounce light to reach the viewer's eye—and thereby omit any vampires, whose reflections won't appear. (The toymaker Gadof Blinsky, of [[Arc F - The Missing Vistana#F1. Blinsky Toys|Blinsky Toys]] in Vallaki, can share that these peepholes were first invented by the legendary inventor, Fritz von Weerg.)
+> Like most homes in Barovia, Iván and Ismark's front door is fitted with a peephole that allows them to identify visitors before opening the door. Barovian peepholes, however, are built internally like periscopes, with a pair of hidden tiny mirrors that bounce light to reach the viewer's eye—and thereby omit any vampires, whose reflections won't appear. (The toymaker Gadof Blinsky, of [[Arc F - The Missing Vistana#F1. Blinsky Toys|Blinsky Toys]] in Vallaki, can share that these peepholes were first invented by the legendary inventor, Fritz von Weerg.)
 
-> [!profile]+ **Profile: Ireena Kolyana**
+> [!profile]+ **Profile: Iván Kolyanovich**
 >
 > **Roleplaying Information**
-> ***Resonance.*** Ireena should inspire flattery with her genuine interest in the players' goals and interests, sympathy for her sense of guilt and fear of Strahd, endearment for her determination to continue moving forward, and gratitude for her efforts to help the players succeed.
+> ***Resonance.*** Iván should inspire flattery with his genuine interest in the players' goals and interests, sympathy for his sense of guilt and fear of Strahd, endearment for his determination to continue moving forward, and gratitude for his efforts to help the players succeed.
 >
-> ***Emotions.*** Ireena most often feels curious, thoughtful, melancholy, guilty, stubborn, joyful, determined, defiant, and anxious.
+> ***Emotions.*** Iván most often feels curious, thoughtful, melancholy, guilty, stubborn, joyful, determined, defiant, and anxious.
 >
-> ***Motivations.*** Ireena wants to keep her fellow Barovians and Ismark safe, honor her parents' memory, learn new stories, and one day explore distant lands.
+> ***Motivations.*** Iván wants to keep his fellow Barovians and Ismark safe, honor his parents' memory, learn new stories, and one day explore distant lands.
 >
-> ***Inspirations.*** When playing Ireena, channel Belle (Beauty and the Beast), Elizabeth Swann (Pirates of the Caribbean), Eowyn (Lord of the Rings), Hermione Granger (Harry Potter), and Katniss Everdeen (The Hunger Games).
+> ***Inspirations.*** When playing Iván, channel Belle (Beauty and the Beast), Elizabeth Swann (Pirates of the Caribbean), Eowyn (Lord of the Rings), Hermione Granger (Harry Potter), and Katniss Everdeen (The Hunger Games).
 >
 > **Character Information**
-> ***Persona.*** To the world, Ireena is a compassionate, curious, yet stubborn young noblewoman. To those she trusts, Ireena is an anxious, yet determined young woman who dreams of freedom and adventure. Deep down, Ireena wonders whether giving herself up to Strahd would be the best way to protect those she loves.
+> ***Persona.*** To the world, Iván is a compassionate, curious, yet stubborn young nobleman. To those he trusts, Iván is an anxious, yet determined young man who dreams of freedom and adventure. Deep down, Iván wonders whether giving himself up to Strahd would be the best way to protect those he loves.
 >
-> ***Morale.*** In a fight, Ireena will always turn to words before a sword. If necessary to defend herself, though, she'll draw her rapier—reluctantly, if protecting herself, and proudly, if protecting another.
+> ***Morale.*** In a fight, Iván will always turn to words before a sword. If necessary to defend himself, though, he'll draw his rapier—reluctantly, if protecting himself, and proudly, if protecting another.
 >
-> ***Relationships.*** Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) sister of Izek Strazni, and the (unknowing) reincarnation of Tatyana Federovna.
+> ***Relationships.*** Iván is the (knowing) adopted brother of Ismark Kolyanovich, the (unknowing) brother of Izek Strazni, and the (unknowing) reincarnation of Tatyana Federovna.
 ### The Argument 
-[[Non-Player Characters#Ireena Kolyana|Ireena]] is surprised to see the players and assumes them at first to be merely travelers. If [[Non-Player Characters#Ismark Kolyanovich|Ismark]] informs her that they are to escort her to Vallaki, however, Ireena asks the players to excuse them and has a brief conversation with Ismark in private.
+[[Non-Player Characters#Iván Kolyanovich|Iván]] is surprised to see the players and assumes them at first to be merely travelers. If [[Non-Player Characters#Ismark Kolyanovich|Ismark]] informs his that they are to escort his to Vallaki, however, Iván asks the players to excuse them and has a brief conversation with Ismark in private.
 
-The entire conversation takes no more than five minutes. If the players do not choose to listen in, they are free to wander around the manor, talk amongst themselves, or simply wait for Ireena and Ismark to finish.
+The entire conversation takes no more than five minutes. If the players do not choose to listen in, they are free to wander around the manor, talk amongst themselves, or simply wait for Iván and Ismark to finish.
 
 The players can eavesdrop on this conversation with a successful DC 13 Dexterity (Stealth) check or a successful DC 15 Wisdom (Perception) check. Read:
 
 <div class="description">
 <p>The murmurs from the next room are largely indistinct, obscured by the low groans of the old house's timbers. As you strain your ears, however, the siblings' words come slowly into focus.</p>
-<p>Ireena's voice, sharp with indignation, pierces the silence. "You had no right, Ismark. You can't just decide to send me away, like I'm some kind of inconvenience! I'm Father's child as much as you, and our people need me to rebuild. You need me too!"</p>
+<p>Iván's voice, sharp with indignation, pierces the silence. "You had no right, Ismark. You can't just decide to send me away, like I'm some kind of inconvenience! I'm Father's son as much as you, and our people need me to rebuild. You need me too!"</p>
 <p>Ismark's reply is measured, though laced with an unmistakable note of worry. "The Devil still has his sights set on you—and even if we don't believe the legend about women with red hair, others might. Barovia just isn't safe for you anymore."</p>
 <p>A snort of defiance echoes from the other side of the thin wooden partition. "I am no coward, Ismark, and I will not abandon our friends and neighbors in their hour of need."</p>
 <p>There's a pause. Then, Ismark says, quietly, "Gertruda left the village last night. Alone."</p>
-<p>You hear a ragged breath from Ireena's direction. "<em>Why?</em>"</p>
+<p>You hear a ragged breath from Iván's direction. "<em>Why?</em>"</p>
 <p>"Her mother thinks she went to Vallaki," Ismark murmurs. "I don't know if she went for help, or to be away from the village—but the people here aren't the only ones who need your help."</p>
 <p>There's a long, suffering silence. Then—</p>
 <p>Ismark seems to hesitate, his words slightly fumbled. "I'm not asking you to abandon them. But there are others who need your help. Think about our neighbors who fled for Vallaki. They need guidance, advocacy—and perhaps a leader to bring them home one day."</p>
-<p>There is a long pause. Ireena's voice is low when she finally speaks—barely even audible. "I still don't like it."</p>
+<p>There is a long pause. Iván's voice is low when he finally speaks—barely even audible. "I still don't like it."</p>
 <p>Ismark's response is quiet. "It's your choice. I can't take that away from you. But after losing Father, I can't . . . I can't bear the thought of losing you too."</p>
-<p>The silence that follows is palpable, weighted with unspoken emotions. Finally, Ireena's voice breaks it, fragile and quiet. "I will go. If only for you. And only if we bury Father first—together."</p>
+<p>The silence that follows is palpable, weighted with unspoken emotions. Finally, Iván's voice breaks it, fragile and quiet. "I will go. If only for you. And only if we bury Father first—together."</p>
 </div>
 
-Ismark and Ireena emerge a few moments later. A player with a passive Wisdom (Insight) score of 12 or more notices that both have blotchy, red eyes, as if from crying.
+Ismark and Iván emerge a few moments later. A player with a passive Wisdom (Insight) score of 12 or more notices that both have blotchy, red eyes, as if from crying.
 
-[[Non-Player Characters#Ismark Kolyanovich|Ismark]] then asks the players if they will assist him and Ireena in transporting their father’s remains to the local church shortly before daybreak the following morning, so that he can be buried at dawn, as the faith of the Morninglord requires, before they depart. (Ireena will not willingly leave Barovia before this is done.) If they agree, Ireena and Ismark are both vocally grateful.
+[[Non-Player Characters#Ismark Kolyanovich|Ismark]] then asks the players if they will assist him and Iván in transporting their father’s remains to the local church shortly before daybreak the following morning, so that he can be buried at dawn, as the faith of the Morninglord requires, before they depart. (Iván will not willingly leave Barovia before this is done.) If they agree, Iván and Ismark are both vocally grateful.
 ### Settling In
-[[Non-Player Characters#Ismark Kolyanovich|Ismark]] soon departs to gather a search party to locate Gertruda—one that he clearly fears will be in vain. As he does, [[Non-Player Characters#Ireena Kolyana|Ireena]] offers to help the players get settled in, setting them up in the mansion's two guest bedrooms and providing them with basic supplies.
+[[Non-Player Characters#Ismark Kolyanovich|Ismark]] soon departs to gather a search party to locate Gertruda—one that he clearly fears will be in vain. As he does, [[Non-Player Characters#Iván Kolyanovich|Iván]] offers to help the players get settled in, setting them up in the mansion's two guest bedrooms and providing them with basic supplies.
 
-If the players are looking to purchase additional supplies, Ireena offers them directions to Bildrath’s Mercantile, but warns them not to mention Ismark's name. If the players ask her why Ismark is called "the Lesser," Ireena winces, and can share the following information:
+If the players are looking to purchase additional supplies, Iván offers them directions to Bildrath’s Mercantile, but warns them not to mention Ismark's name. If the players ask his why Ismark is called "the Lesser," Iván winces, and can share the following information:
 
 * When Strahd's dusk elf servant—a cruel-looking man named Rahadin—delivered his warning three months ago, many Barovians were prepared to flee the village for Vallaki.
 * Ismark, however, delivered a thundering and inspiring speech, invoking the memory of Lugdana and Ismark the Great to encourage them to stay and fight for their homes. Most did so.
 * In the aftermath of Strahd's siege, many who had lost homes or loved ones in the battle blamed Ismark, who they felt had led them astray with his foolish fantasies of heroism and valor. They now call him "Ismark the Lesser" in mockery of his ancestry.
 * No one feels more guilty or ashamed than Ismark himself, who has taken the weight of every death incurred in the siege on his own shoulders—and the weight of the rebuilding that followed.
 
-If the players ask about Doru's rebellion, Ireena can share the following information:
+If the players ask about Doru's rebellion, Iván can share the following information:
 
 * Doru was a friend of theirs, and the son of the village priest Father Donavich. He was a bright and cheery young man, with a sunny disposition and a zeal for everything he did.
-* Just over three months ago, without warning, Doru announced a crusade against Castle Ravenloft, which he proclaimed would free Barovia from the mists and return sunlight to the valley. Over two dozen young Barovians accompanied him, as well as a scholar from distant lands named Alanik Ray, who had been staying as a guest at Ismark and Ireena's home for the previous several weeks while studying Barovian history and ecology. 
-* Ireena doesn't recall much about Alanik, other than that he was a curious, somewhat intense man who kept to himself, took long walks into the Svalich Woods, and owned a pet monkey. She does remember, however, that he had a furious argument with Doru at one point, which confused her when he accompanied Doru to Castle Ravenloft shortly thereafter.
+* Just over three months ago, without warning, Doru announced a crusade against Castle Ravenloft, which he proclaimed would free Barovia from the mists and return sunlight to the valley. Over two dozen young Barovians accompanied him, as well as a scholar from distant lands named Alanik Ray, who had been staying as a guest at Ismark and Iván's home for the previous several weeks while studying Barovian history and ecology. 
+* Iván doesn't recall much about Alanik, other than that he was a curious, somewhat intense man who kept to himself, took long walks into the Svalich Woods, and owned a pet monkey. He does remember, however, that Alanik had a furious argument with Doru at one point, which confused him when he accompanied Doru to Castle Ravenloft shortly thereafter.
 
-If the players ask about her parents, Ireena freely shares the following information while asking after the players' own families:
+If the players ask about his parents, Iván freely shares the following information while asking after the players' own families:
 
-* Ismark and Ireena's parents were Kolyan Indirovich and Korina Targolova. Korina died of a sickness fourteen years ago, but Kolyan has done his best since then to continue raising both children alone. (The scarf Ireena wears is her last memory of her mother.)
-* Kolyan, their father, was the one who found Ireena when she was a young girl, by the edge of the Svalich Woods near the Pillarstone of Ravenloft. Ireena doesn't remember anything of her past before then, but is grateful to her parents for taking her in and loving her dearly.
+* Ismark and Iván's parents were Kolyan Indirovich and Korina Targolova. Korina died of a sickness fourteen years ago, but Kolyan has done his best since then to continue raising both children alone. (The scarf Iván wears is his last memory of his mother.)
+* Kolyan, their father, was the one who found Iván when he was a young boy, by the edge of the Svalich Woods near the Pillarstone of Ravenloft. Iván doesn't remember anything of his past before then, but is grateful to his parents for taking him in and loving him dearly.
 
-An hour later, when night has fully fallen, Ismark returns, weary and somber, but carrying a small bag in his hands. He joins Ireena to prepare a meal for the players: a stew of turnips and rabbit-meat, plus a somewhat stale loaf of bread. Ismark apologizes for the sparse meal, but the players can clearly see that the siblings' pantry is nearly bare, and can surmise that Ismark purchased the rabbit while out.
+An hour later, when night has fully fallen, Ismark returns, weary and somber, but carrying a small bag in his hands. He joins Iván to prepare a meal for the players: a stew of turnips and rabbit-meat, plus a somewhat stale loaf of bread. Ismark apologizes for the sparse meal, but the players can clearly see that the siblings' pantry is nearly bare, and can surmise that Ismark purchased the rabbit while out.
 
-Over dinner, Ismark and Ireena ask the players about their interests and lives outside of Barovia. Ireena especially is fascinated by tales of the world beyond the mists. When the meal has finished, Ismark and Ireena retire to bed, leaving the players to their own devices.
+Over dinner, Ismark and Iván ask the players about their interests and lives outside of Barovia. Iván especially is fascinated by tales of the world beyond the mists. When the meal has finished, Ismark and Iván retire to bed, leaving the players to their own devices.
 
 When the players retire to their rooms, one of them finds a torn excerpt of *Van Richten's Guide to Vampires* by Dr. Rudolph van Richten sitting on a night table by the bed. This excerpt of the preface, which Van Richten tore from Doru's book in the midst of a furious argument, reads as follows:
 
@@ -326,7 +326,7 @@ When the players retire to their rooms, one of them finds a torn excerpt of *Van
 <p>It is said that the bloodlust of these creatures is an unquenchable fire that burns within their undead hearts. The young and newly turned are slaves to this craving, often losing themselves in a frenzy at the mere scent of blood. But those who have walked the night for centuries, as well as those with indomitable focus and will, may learn to temper this fire. Those who do so possess the rare ability to conceal their monstrous nature, retracting and exposing their fangs at will—a sign that the monster within is held at bay, if only while the vampire allows.</p>
 </div>
 
-Ismark and Ireena don't recognize the excerpt, but Ireena recalls that Doru owned a copy of *Van Richten's Guide to Vampires*, which he loved. Neither is sure how this excerpt came to be in their guest room.
+Ismark and Iván don't recognize the excerpt, but Iván recalls that Doru owned a copy of *Van Richten's Guide to Vampires*, which he loved. Neither is sure how this excerpt came to be in their guest room.
 ### Night at the Mansion
 That night, as the players rest in the mansion, each of them—including those who do not ordinarily sleep—are drawn into a shared dream.
 
@@ -352,13 +352,13 @@ The players then violently awaken, hearts beating fast and covered in sweat. Out
 > [!lore] **Who Knows of Madam Eva?**
 > All Barovians know that the Vistani have a semi-permanent camp at Tser Pool. Only some, however—as well as most residents of the village of Barovia—know that the camp is led by the crone Madam Eva, who the Vistani claim to be a powerful fortuneteller and seer. Although few Barovians hold Madam Eva in high regard, some have made the journey to Tser Pool in the past, seeking her wisdom in matters of love, sickness, or death. 
 ### Waking Up
-[[Non-Player Characters#Ismark Kolyanovich|Ismark]] rouses the players shortly before dawn, gathering them to deliver the burgomaster’s remains to Barovia’s church. Ireena, already dressed and waiting in the foyer, greets them warmly as they descend the stairs.
+[[Non-Player Characters#Ismark Kolyanovich|Ismark]] rouses the players shortly before dawn, gathering them to deliver the burgomaster’s remains to Barovia’s church. Iván, already dressed and waiting in the foyer, greets them warmly as they descend the stairs.
 
-If the players ask Ismark or Ireena about the March of the Dead, they share that the ghosts began appearing shortly after the failed revolt, when Strahd presumably first awoke. Until that time, the villagers had thought the so-called “March of the Dead” to be a myth from older times. If asked, Ismark awkwardly explains that the March is said to be a parade of outsiders that had become trapped in Barovia and sought, unsuccessfully, to slay the vampire Strahd.
+If the players ask Ismark or Iván about the March of the Dead, they share that the ghosts began appearing shortly after the failed revolt, when Strahd presumably first awoke. Until that time, the villagers had thought the so-called “March of the Dead” to be a myth from older times. If asked, Ismark awkwardly explains that the March is said to be a parade of outsiders that had become trapped in Barovia and sought, unsuccessfully, to slay the vampire Strahd.
 
 If the players ask about Tser Pool, they can learn that a Vistani encampment is known to reside there. To reach Tser Pool, he says, they must first travel west from Barovia down the Old Svalich Road, then travel north from the River Ivlis Crossroads.
 
-When the players are ready to depart, Ismark and Ireena ask them to assist in carrying Kolyan's coffin. The two siblings accompany the players to the church.
+When the players are ready to depart, Ismark and Iván ask them to assist in carrying Kolyan's coffin. The two brothers accompany the players to the church.
 ## B5d. The Barovian Church
 <span class="citation"><em>This scene takes place in Chapter 3: Area E5.</em></span>
 
@@ -444,13 +444,13 @@ Doru does not cry out to his father when the players enter the chapel. Instead, 
 >
 > ***Relationships.*** Father Donavich is Doru’s father and the priest of the Barovian church.
 
-If he learns that Ismark and Ireena are with the players, Donavich acts more warmly toward them and apologizes for the chapel’s state of disrepair. 
+If he learns that Ismark and Iván are with the players, Donavich acts more warmly toward them and apologizes for the chapel’s state of disrepair. 
 
 As the conversation unfolds, the following exchanges might occur:
 
-* If Ismark, Ireena, or a player asks about burying the deceased burgomaster, Father Donavich informs them that he would be glad to oversee a burial, but that he cannot perform the holy rites that would sanctify Kolyan’s remains. (Donavich is sorrowful to hear of Kolyan’s death, and expresses his condolences for his passing.)
-* If Ismark, Ireena, or a player notes the damage done to the church, Father Donavich informs them that it was caused by a **vampire spawn** that attacked amidst the siege—the undead husk of his son, Doru. (Both Ismark and Ireena are shocked and horrified to learn of Doru's fate, having believed he died at Castle Ravenloft.)
-* If Ismark, Ireena, or a player informs him that Gertruda (Doru's betrothed) has gone missing, Father Donavich mourns her and murmurs a quiet prayer that the Morninglord keep and protect her soul.
+* If Ismark, Iván, or a player asks about burying the deceased burgomaster, Father Donavich informs them that he would be glad to oversee a burial, but that he cannot perform the holy rites that would sanctify Kolyan’s remains. (Donavich is sorrowful to hear of Kolyan’s death, and expresses his condolences for his passing.)
+* If Ismark, Iván, or a player notes the damage done to the church, Father Donavich informs them that it was caused by a **vampire spawn** that attacked amidst the siege—the undead husk of his son, Doru. (Both Ismark and Iván are shocked and horrified to learn of Doru's fate, having believed he died at Castle Ravenloft.)
+* If Ismark, Iván, or a player informs him that Gertruda (Doru's betrothed) has gone missing, Father Donavich mourns her and murmurs a quiet prayer that the Morninglord keep and protect her soul.
 
 If the players inquire further, Donavich can share the following information:
 
@@ -461,7 +461,7 @@ If the players inquire further, Donavich can share the following information:
 
 Donavich knows that he can’t defeat Doru and can’t bear to see his son’s face again. If the players are willing, however, Donavich asks them to descend to the undercroft, destroy Doru’s body, and retrieve his holy symbol. In exchange, Donavich offers to complete the proper burial rites and to tell the players of a place where they can find safety from the Devil Strahd.
 
-If the players agree, Donavich produces the key to the to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span> and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
+If the players agree, Donavich produces the key to the to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span> and allows them to enter. (Ismark remains upstairs with Iván, reluctant to expose his to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
 ### Descent to the Undercroft
 The undercroft is largely as described in <span class="citation">E5g. Undercroft (p. 47)</span>. However, modify the last sentence of the description as follows: 
 
@@ -602,80 +602,80 @@ At the conclusion of Donavich’s prayer, any players who wish to may offer word
 
 With the burial concluded, Strahd’s bats take off into the air, vanishing up into the mist surrounding the base of Castle Ravenloft.
 
-Donavich takes the bats’ presence as a bad omen. In a surprisingly lucid moment, he warns the players and Ismark of a Barovian superstition that young women with red hair often find that ill luck travels beside them, and asks if Ireena plans to remain in Barovia now that the Devil has awoken. If told that Ireena and the players intend to leave, Donavich suggests the Abbey of St. Markovia in Krezk as an eventual destination. He notes it was once a bastion of good, and may yet still offer some protection.
+Donavich takes the bats’ presence as a bad omen. In a surprisingly lucid moment, he warns the players and Ismark of a Barovian superstition that young women with red hair often find that ill luck travels beside them, and asks if Iván plans to remain in Barovia now that the Devil has awoken. If told that Iván and the players intend to leave, Donavich suggests the Abbey of St. Markovia in Krezk as an eventual destination. He notes it was once a bastion of good, and may yet still offer some protection.
 
 > [!lore] **Who Knows of the Abbey?**
 > All Barovians know that the Abbey of St. Markovia lies in the village of Krezk. Most outside of Krezk are unsure as to whether it still operates, though rumors abound that Strahd destroyed it long ago, leaving nothing more than ghosts to haunt its halls. A few Vallakians, including Father Lucian Petrovich of St. Andral's Church, know that the Abbey was reopened more than one hundred years ago, but none beyond Krezk know that the Abbey's current abbot is the same man who reopened its doors over a century ago. 
 
 ### Return to the Mansion
-When the players return to the burgomaster’s manor following the burial, [[Non-Player Characters#Ireena Kolyana|Ireena]] and [[Non-Player Characters#Ismark Kolyanovich|Ismark]] prepare a light breakfast while speaking with the players about their next steps. The conversation largely proceeds as follows unless redirected by the players:
+When the players return to the burgomaster’s manor following the burial, [[Non-Player Characters#Iván Kolyanovich|Iván]] and [[Non-Player Characters#Ismark Kolyanovich|Ismark]] prepare a light breakfast while speaking with the players about their next steps. The conversation largely proceeds as follows unless redirected by the players:
 
-* Ismark confirms that St. Andral's Church in Vallaki is Ireena's destination.
-* Ireena asks the players about their destination or plans in Vallaki, as well as whether they expect to make any stops along the road there.
-* If the players have mentioned their intent to visit Tser Pool, Ismark notes that the journey to Vallaki is more than a day's travel if the players plan to visit Tser Pool first, and that Ireena and the players will likely need to spend a night on the road. He recommends doing so at Tser Pool itself.
+* Ismark confirms that St. Andral's Church in Vallaki is Iván's destination.
+* Iván asks the players about their destination or plans in Vallaki, as well as whether they expect to make any stops along the road there.
+* If the players have mentioned their intent to visit Tser Pool, Ismark notes that the journey to Vallaki is more than a day's travel if the players plan to visit Tser Pool first, and that Iván and the players will likely need to spend a night on the road. He recommends doing so at Tser Pool itself.
 * If the players haven't mentioned their intent to visit Tser Pool, Ismark notes that the Svalich Road can be dangerous, and advises the players to set a waypoint to rest and recuperate along the way. (Better to be cautious, he says, than to rush into a more taxing journey than necessary.) He suggests Tser Pool as a potential waypoint.
 * In either case, Ismark notes that Tser Pool is a bit under two hours' journey from Barovia. (Though some Vistani are rumored to be in league with Strahd, Tser Pool is known to be a safe place for travelers to spend the night, especially given the reputation of the Vistani leader, Madam Eva.)
 
-Given the short distance to Tser Pool, Ireena tells the party that she'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
+Given the short distance to Tser Pool, Iván tells the party that he'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
 ## B5e. Lugdanna's Knoll
-Approximately an hour before noon, [[Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.) 
+Approximately an hour before noon, [[Non-Player Characters#Iván Kolyanovich|Iván]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.) 
 
-Shortly before noon, if the players haven't been keeping track of her, [[Non-Player Characters#Ismark Kolyanovich|Ismark]]—who's currently briefing a pair of Barovian **scouts** regarding Gertruda's disappearance—notes Ireena's absence with minor concern and asks the players to find her and bring her home. 
+Shortly before noon, if the players haven't been keeping track of him, [[Non-Player Characters#Ismark Kolyanovich|Ismark]]—who's currently briefing a pair of Barovian **scouts** regarding Gertruda's disappearance—notes Iván's absence with minor concern and asks the players to find him and bring him home. 
 
-Because Strahd and his servants have only visited at night, Ismark isn't notably alarmed by Ireena's absence, but still wants to see her brought home as quickly as reasonably possible. Ismark advises that the players check Lugdana's Knoll first—one of Ireena's favorite spots around the village—and provides brief directions to get there. 
+Because Strahd and his servants have only visited at night, Ismark isn't notably alarmed by Iván's absence, but still wants to see him brought home as quickly as reasonably possible. Ismark advises that the players check Lugdana's Knoll first—one of Iván's favorite spots around the village—and provides brief directions to get there. 
 
 If the players visit the knoll, read:
 
 <div class="description">
 <p>As you pass through the sea of tall grasses north of the village, a gentle knoll rises before you, bordered on the far side by the clutches of the dark Svalich Wood. Plants with white, feathery flowers and a sweet, earthy scent seem to dance amidst the grass atop the hill, their leaves rustling in a whispering wind.</p>
-<p>A lonely tree stands atop the hill, its gnarled branches reaching skyward like outstretched arms. Beneath its shade kneels a female figure, her gaze fixated upon the ground.</p>
+<p>A lonely tree stands atop the hill, its gnarled branches reaching skyward like outstretched arms. Beneath its shade kneels a male figure, his gaze fixated upon the ground.</p>
 </div>
 
-The figure is Ireena, who has adorned her chestplate and rapier. As the players approach, they can see that she is using a trowel to dig a hole in the earth between the tree's roots. Ireena, fixated upon her work, doesn't notice the players until they call out to her or otherwise enter her field of view.
+The figure is Iván, who has adorned his chestplate and rapier. As the players approach, they can see that he is using a trowel to dig a hole in the earth between the tree's roots. Iván, fixated upon his work, doesn't notice the players until they call out to him or otherwise enter his field of view.
 
-Ireena greets the players with warmth, though with some embarrassment for having driven them to come search for her. She shares freely that she is digging for a small wooden chest that she and her mother, Korina Targolova, buried here before her mother's death fourteen years ago—a coffer whose contents she hopes to take as a keepsake when she departs for Vallaki, given that she doesn't know when, if ever, she'll be able to return home.
+Iván greets the players with warmth, though with some embarrassment for having driven them to come search for him. He shares freely that he is digging for a small wooden chest that he and his mother, Korina Targolova, buried here before his mother's death fourteen years ago—a coffer whose contents he hopes to take as a keepsake when he departs for Vallaki, given that he doesn't know when, if ever, he'll be able to return home.
 
-If allowed to finish unearthing the chest, Ireena opens it, revealing its contents. The chest contains a silver bracelet set with gemstones, a pressed aster flower, a wooden charm in the shape of the yarrow flower on a leather cord, and a handkerchief with floral patterns.
+If allowed to finish unearthing the chest, Iván opens it, revealing its contents. The chest contains a silver bracelet set with gemstones, a pressed aster flower, a wooden charm in the shape of the yarrow flower on a leather cord, and a handkerchief with floral patterns.
 
-The flower (which Ireena found and her mother pressed), charm (which Ireena's mother wore as an apprentice to the town's healer), and handkerchief (which Ireena's mother helped her to sew) are all mementos of Ireena's childhood with her mother. The bracelet is an item that Ireena was found carrying when Kolyan found her in the Svalich Wood, which Korina kept as a memento of their "miracle child" after she learned that she could bear no more children.
+The flower (which Iván found and his mother pressed), charm (which Iván's mother wore as an apprentice to the town's healer), and handkerchief (which Iván's mother helped him to sew) are all mementos of Iván's childhood with his mother. The bracelet is an item that Iván was found carrying when Kolyan found him in the Svalich Wood, which Korina kept as a memento of their "miracle child" after she learned that she could bear no more children.
 
-The bracelet holds no sentimental value for Ireena, and she doesn't remember why she was carrying it when Kolyan first found her, or where she obtained it. She offers it to the players as a gift for their agreement to escort her to Vallaki, as compensation for their trouble.
+The bracelet holds no sentimental value for Iván, and he doesn't remember why he was carrying it when Kolyan first found him, or where he obtained it. He offers it to the players as a gift for their agreement to escort him to Vallaki, as compensation for their trouble.
 
 The silver bracelet, which is tarnished and clearly hundreds of years old, is worth 100 gp and bears an intricate pattern of the moon and stars along the exterior, with a moonstone gem embedded at the center of the moon and five lapis-lazuli serving as the stars. On the inside of the bracelet, in tiny, elegant script, the following message is engraved in Common: "Tatyana: May you find your path, and may you find light even in the darkest places—Mother & Father."
 
-Ireena doesn't know who Tatyana is. (Unbeknownst to Ireena, the bracelet was a gift from Tatyana Federovna's parents on Tatyana's eighteenth birthday. It was lost in the Svalich Wood when Tatyana leapt to her death from the Castle Ravenloft overlook.)
+Iván doesn't know who Tatyana is. (Unbeknownst to Iván, the bracelet was a gift from Tatyana Federovna's parents on Tatyana's eighteenth birthday. It was lost in the Svalich Wood when Tatyana leapt to her death from the Castle Ravenloft overlook.)
 
-After sharing the items in the chest, Ireena apologizes to the players. "I'm not certain if my brother has been entirely forthright to you," she says, not meeting their eyes. "But—perhaps it's easier if I show you." She then removes her scarf, revealing the bite scars upon her neck. She can then share the following information:
+After sharing the items in the chest, Iván apologizes to the players. "I'm not certain if my brother has been entirely forthright to you," he says, not meeting their eyes. "But—perhaps it's easier if I show you." He then removes his scarf, revealing the bite scars upon his neck. He can then share the following information:
 
-* The creature hunting her is none other than the Devil of Castle Ravenloft himself—and he has twice visited her in recent days, drinking her blood before vanishing into the night. 
-* The first night, Strahd charmed her and Ismark at the front door and commanded them to invite him inside. The second night, when they locked and barred the door, Strahd came to her bedroom window instead. (Strahd's visits are why the siblings have boarded up their windows and installed the locks on the door—for fear he might find his way inside once again.)
+* The creature hunting him is none other than the Devil of Castle Ravenloft himself—and he has twice visited him in recent days, drinking his blood before vanishing into the night. 
+* The first night, Strahd charmed him and Ismark at the front door and commanded them to invite him inside. The second night, when they locked and barred the door, Strahd came to his bedroom window instead. (Strahd's visits are why the siblings have boarded up their windows and installed the locks on the door—for fear he might find his way inside once again.)
 
-"I don't know why he hasn't killed me or turned me," Ireena says, gritting her teeth as her hands curl into fists. "I don't know if this is some kind of sick game he's playing, or if he just likes to see people suffer."
+"I don't know why he hasn't killed me or turned me," Iván says, gritting his teeth as his hands curl into fists. "I don't know if this is some kind of sick game he's playing, or if he just likes to see people suffer."
 
-The anger leaves her as she adds, somberly, "But now you know the truth." Her voice chokes as she adds, "They say women with red hair bring bad luck. I'm sorry—I never wanted to bring any to you." (She is grateful for any reassurances the players might offer.)
+The anger leaves him as he adds, somberly, "But now you know the truth." His voice chokes as he adds, "They say people with red hair bring bad luck. I'm sorry—I never wanted to bring any to you." (He is grateful for any reassurances the players might offer.)
 
-Ireena gladly returns to the mansion with the players, or returns on her own shortly after noon if the players failed to find her. She then retrieves a packed traveling bag from her room.
+Iván gladly returns to the mansion with the players, or returns on his own shortly after noon if the players failed to find him. He then retrieves a packed traveling bag from his room.
 
-When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and sets off on the road.
+When the players are ready to leave, Iván bids Ismark a heartfelt farewell and sets off on the road.
 
-**_Milestone_**. Burying the Burgomaster completes a story milestone. If the players depart Barovia with Ireena accompanying them, award each player 400 XP. If Doru successfully passed his test of will, award each player an additional 100 XP.
+**_Milestone_**. Burying the Burgomaster completes a story milestone. If the players depart Barovia with Iván accompanying them, award each player 400 XP. If Doru successfully passed his test of will, award each player an additional 100 XP.
 
-> [!info]+ **Ireena Joins the Party**
+> [!info]+ **Iván Joins the Party**
 >
-> Ireena has the statistics of an **expert sidekick (Tasha's Cauldron of Everything, p. 142)**, using the base stat block of a **noble.**
+> Iván has the statistics of an **expert sidekick (Tasha's Cauldron of Everything, p. 142)**, using the base stat block of a **noble.**
 >
-> Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in History, Medicine, Perception, Religion, and Stealth.
+> Iván's starting level is the same as the average level of the party at the time he first joins them. He begins with additional proficiencies in History, Medicine, Perception, Religion, and Stealth.
 >
-> Ireena also gains a level whenever the party does, whether or not she accompanied them, ending the adventure at 10th level. (See <span class="citation">Tasha’s Cauldron of Everything, p. 142</span> for more information about how to run and level sidekicks.)
+> Iván also gains a level whenever the party does, whether or not he accompanied them, ending the adventure at 10th level. (See <span class="citation">Tasha’s Cauldron of Everything, p. 142</span> for more information about how to run and level sidekicks.)
 >
-> By default, Ireena chooses the following sidekick options as she gains levels:
+> By default, Iván chooses the following sidekick options as he gains levels:
 >
-> - **3rd Level.** Ireena gains expertise in the Insight and Medicine skills.
-> - **4th Level.** Ireena’s Dexterity score increases by 2 to 14.
-> - **8th Level.** Ireena’s Dexterity score increases by 2 to 16.
-> - **10th Level.** Ireena’s Dexterity score increases by 2 to 18.
+> - **3rd Level.** Iván gains expertise in the Insight and Medicine skills.
+> - **4th Level.** Iván’s Dexterity score increases by 2 to 14.
+> - **8th Level.** Iván’s Dexterity score increases by 2 to 16.
+> - **10th Level.** Iván’s Dexterity score increases by 2 to 18.
 >
-> None of Strahd's servants or monsters—regardless of their intelligence, and least of all Strahd himself—ever attack Ireena.
+> None of Strahd's servants or monsters—regardless of their intelligence, and least of all Strahd himself—ever attack Iván.
 
 ## B5f. Bildrath’s Mercantile
 <span class="citation"><em>This scene takes place in Chapter 3: Area E1.</em></span>
@@ -711,7 +711,7 @@ If Bildrath orders Parriwimple to remove the players from the store, Parriwimple
 
 There should be no reason for the players to visit <span class="citation">Mad Mary’s Townhouse (p. 44)</span> in this revision. However, if they do, the following changes have been made:
 
-Mad Mary did not hide Gertruda in this house for her entire life. Instead, Gertruda lived a fairly ordinary life—albeit one with a fairly overbearing widowed mother. (Ireena and Gertruda initially bonded as young girls over the loss of their parents—Ireena's mother and Gertruda's father.) When he was alive, Gertruda’s father was a merchant who raised Gertruda on stories of great lords and ladies, using their family’s meager funds to purchase her occasional books from Vistani caravans regarding diplomacy and military history.
+Mad Mary did not hide Gertruda in this house for her entire life. Instead, Gertruda lived a fairly ordinary life—albeit one with a fairly overbearing widowed mother. (Iván and Gertruda initially bonded as young girls over the loss of their parents—Iván's mother and Gertruda's father.) When he was alive, Gertruda’s father was a merchant who raised Gertruda on stories of great lords and ladies, using their family’s meager funds to purchase her occasional books from Vistani caravans regarding diplomacy and military history.
 
 The first floor of this old, dirty dwelling comprises a one-room divided living space. To the north lies a small kitchen, its countertops dirty and covered with dust. There is a broken glass on the floor and a rotted meal for two set on a table covered with a dirty blue tablecloth. (Mary poured herself a glass of wine to steady her nerves after realizing Gertruda's disappearance, and dropped it on the floor in anguish.)
 
@@ -731,25 +731,25 @@ Morgantha has been relocated from the village of Barovia to the Barovian refugee
 
 Arik has been made the sole owner of the tavern to create a sharper distinction between the Barovians and the Vistani. 
 
-Ismark has been intentionally made a friendlier and more sympathetic character to encourage the players to build a warm and trusting relationship with him and his sister, Ireena. 
+Ismark has been intentionally made a friendlier and more sympathetic character to encourage the players to build a warm and trusting relationship with him and his brother, Iván. 
 
 Mad Mary's plea has been relocated to the tavern and combined with Ismark's introduction to create a more dramatic and engaging opportunity for the players to learn about the village's plight.
 
 Gertruda has been changed to be Doru's betrothed to provide her with a more rational reason to have willingly gone to the castle, and to add additional tragic irony to Doru's secret imprisonment in the undercroft of the church.
 
-It is intentional that Ismark neither offers payment for Ireena's escort, nor requests it for allowing the players to stay at his home. By graciously offering the players a place to stay, free of charge, Ismark should easily earn goodwill from the players, thereby encouraging them to accept his request when he asks if Ireena can accompany them to Vallaki.
+It is intentional that Ismark neither offers payment for Iván's escort, nor requests it for allowing the players to stay at his home. By graciously offering the players a place to stay, free of charge, Ismark should easily earn goodwill from the players, thereby encouraging them to accept his request when he asks if Iván can accompany them to Vallaki.
 
-***The Burgomaster's Mansion.*** Ireena and Ismark's conversation has been added to make Ireena a more sympathetic character.
+***The Burgomaster's Mansion.*** Iván and Ismark's conversation has been added to make Iván a more sympathetic character.
 
-Ireena now knows that she was adopted and bears no ill will or melancholy regarding this fact. Her ignorance of her adoption in the original module serves no narrative purpose, and her devotion to Kolyan Indirovich is far more endearing if her love is undiminished by their adoptive relationship. Knowledge of her adoption also foreshadows her relationship to Izek Strazni later on, thereby ensuring that the reveal of their connection packs a greater dramatic punch.
+Iván now knows that he was adopted and bears no ill will or melancholy regarding this fact. Her ignorance of his adoption in the original module serves no narrative purpose, and his devotion to Kolyan Indirovich is far more endearing if his love is undiminished by their adoptive relationship. Knowledge of his adoption also foreshadows his relationship to Izek Strazni later on, thereby ensuring that the reveal of their connection packs a greater dramatic punch.
 
 Madam Eva's dream invitation has been added to provide the players with a clear, urgent, and meaningful reason to travel to Tser Pool before traveling to Vallaki. The players' vision of the March of the Dead from the burgomaster's mansion also establishes the danger of opposing Strahd, raising the tension for when the players first encounter him at the River Ivlis Crossroads.
 
-This sequence intentionally foregoes a popular community modification involving an overnight siege of the mansion staged by Strahd's forces. Such a dangerous experience would make the players less comfortable with escorting Ireena to Vallaki, would establish Strahd as a savage and hostile antagonist, and would deny the players their first opportunity for rest and recovery since the campaign first began.
+This sequence intentionally foregoes a popular community modification involving an overnight siege of the mansion staged by Strahd's forces. Such a dangerous experience would make the players less comfortable with escorting Iván to Vallaki, would establish Strahd as a savage and hostile antagonist, and would deny the players their first opportunity for rest and recovery since the campaign first began.
 
-Ireena Kolyana is intentionally not offered as a potential player character—despite an occasional community interest in making her so—because providing the players with a Barovian player character diminishes the "fish-out-of-water" experience of exploring Barovia; because few players are willing or able to endure Strahd's abusive relationship with Ireena (along with Izek's stalking and kidnapping of her); because, for the first half of **Act II: The Shadowed Town**, the adventure relies upon Ireena's nature as a generally passive character whose path diverges from the party's; and because Ireena's particular arc throughout the campaign is likely to conflict with player expectations and preferences for their own character's arc.
+Iván Kolyanovich is intentionally not offered as a potential player character—despite an occasional community interest in making her so—because providing the players with a Barovian player character diminishes the "fish-out-of-water" experience of exploring Barovia; because few players are willing or able to endure Strahd's abusive relationship with Iván (along with Izek's stalking and kidnapping of her); because, for the first half of **Act II: The Shadowed Town**, the adventure relies upon Iván's nature as a generally passive character whose path diverges from the party's; and because Iván's particular arc throughout the campaign is likely to conflict with player expectations and preferences for their own character's arc.
 
-***Bildrath's Mercantile.*** Bildrath has been changed to be slightly more reasonable and far more sympathetic, aiming to discourage players from attacking him and thereby alienating Ismark and Ireena.
+***Bildrath's Mercantile.*** Bildrath has been changed to be slightly more reasonable and far more sympathetic, aiming to discourage players from attacking him and thereby alienating Ismark and Iván.
 
 ***The Barovian Church.*** Parriwimple has been placed by the entrance to the church to inspire curiosity regarding Donavich's strange behavior and Doru's ultimate fate, and to further develop the tragedy endured by the residents of the village.
 
@@ -759,6 +759,6 @@ The plotline involving Donavich's holy symbol and Doru's blood trial has been ad
 
 Throughout this campaign, it is critical to remember that Strahd is not omniscient. In fact, the players' efforts to avoid and foil his spies serves as a recurrent source of tension and gameplay as they travel through Barovia. As such, from a practical matter, it is important to note that neither Strahd nor Rahadin would have any way of knowing that the burgomaster would be buried on this precise date and time.
 
-More significantly, Strahd views Ireena with neither romance nor regret. He has no illusions that he might win her hand for his own, nor does he believe that such efforts might prove worth his while. A message expressing his condolences to his prey—or a silent vigil observing the burial—are sentiments that Strahd would never express.
+More significantly, Strahd views Iván with neither romance nor regret. He has no illusions that he might win his hand for his own, nor does he believe that such efforts might prove worth his while. A message expressing his condolences to his prey—or a silent vigil observing the burial—are sentiments that Strahd would never express.
 
 Finally, this guide also foregoes a popular community modification that adds an attack by Strahd's wolves and undead during the ceremony. In addition to the fact that Strahd, unaware of the date and time of the burial, would have no opportunity to send it, such an overt attack would immediately antagonize the players and ensure that they feel actively unsafe around Strahd. It is a delicate balancing act to ensure that the players hate and fear Strahd while still feeling safe enough to accept his invitation to dine at Ravenloft. An outright assault on the players destroys that fragile balance utterly.
